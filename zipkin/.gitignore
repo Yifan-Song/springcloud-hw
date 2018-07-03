@@ -1,8 +1,0 @@
-/static-analysis/
-/.settings/
-target
-generated
-.*
-!.gitignore
-**/*.iml
-test-output/
